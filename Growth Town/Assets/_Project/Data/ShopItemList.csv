@@ -1,0 +1,16 @@
+ID,Type,Name,Cost,Description
+1,Building,House Level 1,500,A small comfortable house
+2,Building,House Level 2,1500,A medium sized house
+3,Building,Shop Level 1,2000,A basic shop
+4,Building,Cafe,2500,A nice cafe
+5,Building,Hospital,5000,A town hospital
+6,Decoration,Tree,50,A green tree
+7,Decoration,Flower Bed,100,Beautiful flowers
+8,Decoration,Fountain,300,A stone fountain
+9,Decoration,Bench,75,A wooden bench
+10,Decoration,Street Light,120,Lights up the night
+11,Decoration,Statue,800,A hero's statue
+12,NPC,Dinosaur,10000,A rare friendly dinosaur
+13,NPC,Crane,5000,A majestic crane
+14,NPC,Panda,8000,A cute panda
+15,Building,Town Hall,15000,The center of the town

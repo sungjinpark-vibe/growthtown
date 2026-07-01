@@ -1,0 +1,8 @@
+DayOfWeek,StartTime,EndTime,Multiplier
+Monday,20:00,22:00,1.5
+Tuesday,20:00,22:00,1.5
+Wednesday,20:00,22:00,1.5
+Thursday,20:00,22:00,1.5
+Friday,20:00,24:00,2.0
+Saturday,18:00,24:00,2.0
+Sunday,18:00,24:00,2.0

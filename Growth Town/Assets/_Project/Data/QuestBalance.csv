@@ -1,0 +1,4 @@
+QuestID,QuestName,Description,TargetType,TargetCount,RewardType,RewardAmount
+Q_D_001,Daily Login,Log into the game today.,Login,1,Gold,1000
+Q_D_002,Social Butterfly,Talk to 5 different NPCs.,NPCTalk,5,Gem,10
+Q_D_003,Minigame Master,Play any minigame 3 times.,MiniGamePlay,3,Exp,50

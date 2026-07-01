@@ -1,0 +1,6 @@
+ID,Type,Name,Volume,Description
+BGM_001,BGM,Acoustic Day,0.8,Acoustic piano and guitar BGM for day time
+BGM_002,BGM,Acoustic Night,0.8,Acoustic piano BGM for night time
+SFX_001,SFX,Click,1.0,UI click sound
+SFX_002,SFX,Merge Building,1.0,Sound when buildings are merged
+SFX_003,SFX,Reward,1.0,Sound when player gets a reward

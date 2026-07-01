@@ -1,0 +1,5 @@
+ID,BuildingName,Type,Cost,RevenuePerHour,Capacity,RequiredLevel,Description
+1,Reading Room,Reading,100,6,0,1,Lv1 Reading building
+2,Small Library,Reading,300,18,1,2,Lv2 Reading building
+3,Yoga Mat,Workout,100,6,0,1,Lv1 Workout building
+4,Gym,Workout,300,18,1,2,Lv2 Workout building
